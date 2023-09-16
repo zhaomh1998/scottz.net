@@ -1,56 +1,49 @@
 ---
 title: Minghui (Scott) Zhao
-role: PhD Student in Columbia University
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Student
+bio: My research interest is in creating platforms and architectures that bring ubiquitous sensing and actuation to a smarter daily environment.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mobile and Ubiquitous Computing
+  - Embedded Intelligence
+  - Automated Systems
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Uy96fo8AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zhaomh1998
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/scott-zhao
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Columbia University
+    url: http://icsl.ee.columbia.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Student in Electrical Engineering
+      institution: Columbia University
+      year: 2027
+    - course: MS in Computer Engineering
+      institution: Columbia University
+      year: 2022
+    - course: BS in Electrical Engineering
+      institution: University of California San Diego (UCSD)
+      year: 2020
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zhao
 highlight_name: true
-first_name: Alice
+first_name: Scott
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Minghui (Scott) Zhao is a second year Ph.D. student working at Columbia Intelligent and Connected Systems Lab (ICSL) supervised by Prof. Fred Jiang. His research interest is in creating platforms and architectures that bring ubiquitous sensing and actuation to a smarter daily environment. Before his Ph.D., Scott earned his bachelor's degree in Electrical Engineering from UC San Diego and master's degree in Computer Engineering at Columbia University.
 {style="text-align: justify;"}
