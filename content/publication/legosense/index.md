@@ -49,12 +49,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'LegoSENSE.pdf'
 url_code: 'https://github.com/Columbia-ICSL/LegoSENSE'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'LegoSENSE_iotdi23.pdf'
 url_source: ''
 url_video: ''
 

@@ -1,11 +1,11 @@
 ---
 title: Minghui (Scott) Zhao
-role: PhD Candidate
-bio: My research interest is in creating platforms and architectures that bring ubiquitous sensing and actuation to a smarter daily environment.
+role: Ph.D. Candidate in Electrical Engineering
+bio: My research focuses on developing embodied and embedded AI systems that enable intelligent agents to perceive, understand, and act in the physical world through hardware-software co-design and physics-informed machine learning.
 interests:
   - Embedded Systems + AI
   - Mobile and Ubiquitous Computing
-  - Physical AI
+  - Physical and Embodied AI
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,7 +21,7 @@ social:
     link: https://www.linkedin.com/in/scott-zhao
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/scott_zhao_cv_112425.pdf
 organizations:
   - name: Columbia University
     url: http://icsl.ee.columbia.edu/
@@ -45,5 +45,5 @@ first_name: Scott
 email: ""
 ---
 
-Minghui (Scott) Zhao is a fourth year Ph.D. candidate working at Columbia Intelligent and Connected Systems Lab (ICSL) supervised by Prof. Xiaofan (Fred) Jiang. His research focuses on advancing embodied AI through the development of low-cost, accessible platforms that enable AI systems to perceive and interact with the physical world. By creating affordable and scalable sensing and actuation solutions, his work aims to democratize access to advanced AI technologies across diverse communities, bridging the technological divide between urban and underserved areas. Before his Ph.D., Scott earned his bachelor's degree in Electrical Engineering from UC San Diego and master's degree in Computer Engineering at Columbia University.
+Minghui (Scott) Zhao is a fourth-year Ph.D. candidate at Columbia University's Intelligent and Connected Systems Lab (ICSL), supervised by Prof. Xiaofan (Fred) Jiang. His research focuses on developing embodied and embedded AI systems that enable intelligent agents to perceive, understand, and act in the physical world. Through hardware-software co-design and physics-informed machine learning, he develops novel sensing techniques, intelligent decision-making frameworks, and accessible hardware platforms that perform robustly in real-world, resource-constrained settings. These systems enable new capabilities in autonomous inspection and indoor logistics, home-based and community health monitoring that support aging and remote care, and intelligent homes and buildings, paving the way for AI that actively participates in and improves our daily lives. Before his Ph.D., Scott earned his B.S. in Electrical Engineering from UC San Diego and M.S. in Computer Engineering at Columbia University.
 {style="text-align: justify;"}

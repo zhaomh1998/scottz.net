@@ -39,33 +39,80 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Ph.D. Candidate
+          company: Columbia University - Intelligent and Connected Systems Lab
+          company_url: 'http://icsl.ee.columbia.edu/'
+          company_logo: ''
+          location: New York, NY
+          date_start: '2021-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Embodied and Embedded AI Systems Research
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Developed FlexiFly: Embodied LLM agent with reconfigurable drone platform (SenSys'25, TIoT'25)
+              * Created Anemoi: Sensorless 3D airflow mapping system (MobiCom'23)
+              * Built accessible IoT platforms and programless smart home systems (IoTDI'23, HumanSys'25)
+              * Developed acoustic-based mobile health systems for running analytics (IMWUT'25, SenSys'25)
+        - title: Ph.D. Research Intern
+          company: Microsoft Research
+          company_url: 'https://www.microsoft.com/en-us/research/'
+          company_logo: ''
+          location: Redmond, WA
+          date_start: '2025-06-01'
+          date_end: '2025-08-31'
+          description: |2-
+              Wearable Voice Interface for Agentic LLM
+
+              * Designed and prototyped a voice-controlled wearable ring for agentic LLM task execution
+              * Developed end-to-end system architecture including mobile app and BLE firmware
+              * Integrated with VS Code Copilot and internal agentic frameworks using LangGraph
+              * Led user study lifecycle and presented demos to company leadership
+        - title: Visiting Scholar
+          company: Northwestern University
+          company_url: 'https://www.mccormick.northwestern.edu/electrical-computer/'
+          company_logo: ''
+          location: Evanston, IL
+          date_start: '2024-01-01'
+          date_end: '2024-06-30'
+          description: |2-
+              Wearable Low-Power Speech Enhancement Platform (TRAMBA)
+
+              * Developed novel speech enhancement for bone-conduction microphones and accelerometers
+              * Created hybrid transformer-Mamba architecture for resource-constrained wearables
+              * Achieved 160% battery life improvement with 75% WER reduction in noisy environments
+              * First author paper in ACM IMWUT'24
+        - title: Ph.D. Research Intern
+          company: Tencent Pixel Lab
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: New York, NY
+          date_start: '2023-06-01'
+          date_end: '2023-09-30'
+          description: |2-
+              Light Stage System for 3D Reconstruction
+
+              * Built light stage with 800+ wirelessly controlled high-power LEDs
+              * Designed modular PCBs and developed C firmware with ESP32
+              * Created automation software interfacing light systems with industrial cameras
+        - title: Research Assistant
+          company: UC San Diego - Wireless Communications Lab
+          company_url: 'https://wcsng.ucsd.edu/'
+          company_logo: ''
+          location: La Jolla, CA
+          date_start: '2019-04-01'
+          date_end: '2021-10-31'
+          description: |2-
+              UWB Localization and Wearable Systems
+
+              * Designed ULoc: Centimeter-accurate scalable 3D UWB tag localization system (IMWUT'21)
+              * Developed embedded firmware and hardware for UWB transceiver arrays
+              * Achieved 3.6 cm stationary accuracy and 10 cm tracking accuracy
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards & Honors'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -75,29 +122,93 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2025-01-01'
+          description: 'For Outstanding Teaching Assistants'
+          organization: Columbia University
+          organization_url: https://www.columbia.edu
+          title: Jacob Millman Award
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2025-01-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: ACM HumanSys
+          organization_url: ''
+          title: Best Paper Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-01-01'
+          description: ''
+          organization: ACM MobiCom
+          organization_url: ''
+          title: Student Research Competition - Second Place Winner
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-01-01'
+          description: ''
+          organization: ACM MobiCom
+          organization_url: ''
+          title: Best Demo Runner-Up
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-01-01'
+          description: ''
+          organization: SRC CogniSense Annual Review
+          organization_url: ''
+          title: Lightning Talk Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          organization: SRC CogniSense Annual Review
+          organization_url: ''
+          title: Best Demo Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          organization: ACM/IEEE IPSN
+          organization_url: ''
+          title: Best Demo Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-01-01'
+          description: ''
+          organization: ACM SenSys
+          organization_url: ''
+          title: Best Demo Runner-Up
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-01-01'
+          description: ''
+          organization: Columbia University
+          organization_url: https://www.columbia.edu
+          title: Presidential Fellowship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-01-01'
+          description: ''
+          organization: UC San Diego
+          organization_url: https://ucsd.edu
+          title: Henry G. Booker Memorial Honors Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-01-01'
+          description: ''
+          organization: UC San Diego ECE Department
+          organization_url: https://ece.ucsd.edu
+          title: Best Tutor Award
           url: ''
     design:
       columns: '2'
